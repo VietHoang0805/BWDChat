@@ -1,1 +1,1 @@
-# BWDChat_Nextjs
+# BWDChat
